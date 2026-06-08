@@ -1,24 +1,30 @@
-# ITA-Projekt: Persoenliche Portfolio-Website
+# ITA-Projekt: Persönliche Portfolio-Website
 
-Dies ist eine Website, die ich im ersten Jahr meiner Ausbildung zum Informationstechnischen Assistenten (ITA) erstellt habe.
+Diese Website entstand im ersten Ausbildungsjahr zum Informationstechnischen Assistenten (ITA) und zählt zu meinen frühen Web-Development-Projekten.
 
-Das Ziel war es, ein Web-Development-Projekt von Grund auf zu konzipieren und umzusetzen.
+## Live-Demo
 
-**WICHTIG:** Sie koennen sich das Projekt hier live ansehen:
-**[Live-Demo (geoeffnet mit GitHub Pages)](https://qaise64.github.io/ita-projekt-portfolio-website/)**
+👉 **[Portfolio-Website](https://qaise64.github.io/ita-projekt-portfolio-website/)**
 
-## Projekt-Uebersicht
+## Projektübersicht
 
-Das Projekt umfasste folgende Schritte:
-1.  **Design:** Erstellung eines eigenen Logos ("qais") und eines einheitlichen Dark-Mode-Designs.
-2.  **Entwicklung:** Aufbau einer Multi-Page-Website.
+Im Rahmen des Projekts wurden Konzeption, Design und technische Umsetzung eigenständig durchgeführt.
 
-### Enthaltene Technologien:
+### Bestandteile
 
-* **HTML:** Fuer die Grundstruktur aller Unterseiten (Home, Steckbrief, Mind Map, etc.).
-* **CSS:** Fuer das komplette Styling, das Farbschema und das Layout.
-* **JavaScript:** Fuer kleinere interaktive Elemente (wie z.B. die Mind Map).
+* Eigenes Logo („qais“)
+* Dark-Mode-Design
+* Multi-Page-Website
+* Interaktive Elemente mit JavaScript
 
-### Hinweis zum Projekt-Kontext:
+## Verwendete Technologien
 
-Dies war ein fruehes Projekt, um die Grundlagen von Web Development und Design zu erlernen. Der Fokus lag auf der Desktop-Ansicht. Die Seite wurde speziell fuer eine **Aufloesung von 1920 x 1080** entwickelt und ist daher **nicht** fuer mobile Endgeraete optimiert (nicht responsiv).
+* HTML
+* CSS
+* JavaScript
+
+## Hinweis
+
+Dieses Projekt entstand zum Erlernen der Grundlagen von Webentwicklung und Design.
+
+Die Website wurde primär für Desktop-Systeme (1920 × 1080) entwickelt und ist nicht für mobile Endgeräte optimiert.
